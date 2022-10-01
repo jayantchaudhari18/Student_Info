@@ -9,8 +9,7 @@ Task you have to do
   
   a) import the image of your name (eg: import TusharGupta from "../Images/TusharGupta.jpg")
   
-  b) Now copy the Card given below:
-          <Card image={   } name = " " about=" " instagram= "  "  twitter="  " linkedin="  "/>
+  b) Now copy the Card given below : <Card image={   } name = " " about=" " instagram= "  "  twitter="  " linkedin="  "/>
    
   c) paste your links in the above template :) 
 
