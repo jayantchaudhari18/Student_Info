@@ -8,6 +8,7 @@ import AgneyaPathare from '../Images/AgneyaPathare.jpg'
 import RitikSharma from '../Images/RitikSharma.jpg'
 import PriyanshuSingh from '../Images/Priyanshu singh.png'
 import AnkushMaji from "../Images/AnkushMaji.jpg"
+import AdityaSrivastav from "../Images/AdityaSrivastav.jpg"
 
 
 export default function Home() {
@@ -42,6 +43,8 @@ export default function Home() {
  
        
         <Card image={PriyanshuSingh}name = "Priyanshu Singh" about="Amaterasu!" instagram= "https://www.instagram.com/akapriyanshu.dev/"  twitter="https://twitter.com/akapriyanshudev" linkedin="https://www.linkedin.com/in/akapriyanshudev"/>
+          
+          <Card image={AdityaSrivastav} name = "Aditya Srivastav" about="khush raho aur rehne do! " instagram= "https://www.instagram.com/aditya_srivastav05/ " twitter=" https://twitter.com/narendramodi" linkedin="https://www.linkedin.com/in/aditya-srivastav-4b31a0221/ "/>
 
 
       </main>
