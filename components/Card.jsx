@@ -16,13 +16,13 @@ function Card({ image , name , about  , instagram , twitter , linkedin}) {
         <h3 className='text-xl py-5 font-300 text-slate-200 text-ellipsis overflow-hidden'>{about}</h3>
        </div>
        <div className='mx-auto flex text-4xl gap-6 text-gray-100 py-3'>
-        <a href={instagram} target="_blank">
+        <a href={instagram} target="_blank" rel="noreferrer">
         <AiFillInstagram  className='cursor-pointer hover:text-white hover:scale-125'/>
         </a>
-        <a href={twitter} target="_blank">
+        <a href={twitter} target="_blank" rel="noreferrer">
         <AiFillTwitterCircle className='cursor-pointer hover:text-white hover:scale-125'/>
         </a>
-        <a href={linkedin} target="_blank">
+        <a href={linkedin} target="_blank" rel="noreferrer">
         <AiFillLinkedin className='cursor-pointer hover:text-white hover:scale-125'/>
         </a>
        </div>
