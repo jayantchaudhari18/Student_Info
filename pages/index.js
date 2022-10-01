@@ -28,15 +28,13 @@ export default function Home() {
         <Card image={TusharGupta}name = "Tushar Gupta" about="jai shree ram. keep chilling " instagram= "https://www.instagram.com/trust_afk/"  twitter="https://twitter.com/ohh_hii_tusharr" linkedin="https://www.linkedin.com/in/tushar-gupta-10a151202/"/>
       
        
-        <Card image={AdityaSharma}name = "Aditya Sharma" about="future billionaire abhi gareeb hu." instagram= "https://www.instagram.com/iaddy29/"  twitter="https://twitter.com/iaddy29" linkedin="https://www.linkedin.com/in/aditya-sharma-2b4a64222/"/>
+        <Card image={AdityaSharma}name = "Aditya Sharma" about="future billionaire abhi gareeb." instagram= "https://www.instagram.com/iaddy29/"  twitter="https://twitter.com/iaddy29" linkedin="https://www.linkedin.com/in/aditya-sharma-2b4a64222/"/>
        
 
        <Card image={SudhanshuSharma}name = "Sudhanshu Sharma" about="dm for fun" instagram= "https://www.instagram.com/cpt_n3m0_22/"  twitter="https://twitter.com/Sudhanshu226922" linkedin="https://www.linkedin.com/in/sudhanshu-sharma-9376931b7/"/>
         
        
         <Card image={AnkushMaji}name = "Ankush Maji" about="First Hacktoberfest" instagram="https://www.instagram.com/101ankush/" twitter="" linkedin="https://www.linkedin.com/in/ankush-maji-11555622a/"/>
-          
-         <Card image={Anuj}name = "Anuj Patel" about="Love Virtual Reality" instagram= "https://www.instagram.com/anujpatel03/"  twitter="" linkedin="https://www.linkedin.com/in/anuj-patel-9186331a4/"/>
 
        
         <Card image={AgneyaPathare}name = "Agneya Pathare" about="Digital Creator" instagram= "https://www.instagram.com/agneya_pathare/"  twitter="https://twitter.com/agneya_pathare" linkedin="https://www.linkedin.com/in/agneya-pathare"/>
@@ -48,6 +46,11 @@ export default function Home() {
         <Card image={PriyanshuSingh}name = "Priyanshu Singh" about="Amaterasu!" instagram= "https://www.instagram.com/akapriyanshu.dev/"  twitter="https://twitter.com/akapriyanshudev" linkedin="https://www.linkedin.com/in/akapriyanshudev"/>
           
           <Card image={AdityaSrivastav} name = "Aditya Srivastav" about="khush raho aur rehne do! " instagram= "https://www.instagram.com/aditya_srivastav05/ " twitter=" https://twitter.com/narendramodi" linkedin="https://www.linkedin.com/in/aditya-srivastav-4b31a0221/ "/>
+
+          
+          <Card image={Anuj}name = "Anuj Patel" about="Love Virtual Reality" instagram= "https://www.instagram.com/anujpatel03/"  twitter="" linkedin="https://www.linkedin.com/in/anuj-patel-9186331a4/"/>
+
+
 
 
       </main>
