@@ -5,6 +5,8 @@ import TusharGupta from "../Images/TusharGupta.jpg"
 import AdityaSharma from "../Images/AdityaSharma.jpg"
 import SudhanshuSharma from "../Images/SudhanshuSharma.jpg"
 import AgneyaPathare from '../Images/AgneyaPathare.jpg'
+import RitikSharma from '../Images/RitikSharma.jpg'
+
 
 export default function Home() {
   return (
@@ -28,6 +30,9 @@ export default function Home() {
 
             
         <Card image={AgneyaPathare}name = "Agneya Pathare" about="Digital Creator" instagram= "https://www.instagram.com/agneya_pathare/"  twitter="https://twitter.com/agneya_pathare" linkedin="https://www.linkedin.com/in/agneya-pathare"/>
+          
+         <Card image={RitikSharma}name = "Ritik Sharma" about="Life is a Myth" instagram= "https://www.instagram.com/i_am_ritik_sharma_/"  twitter="https://twitter.com/RitikSh85448549" linkedin="https://www.linkedin.com/in/ritik-sharma-aa0282224/"/>
+ 
 
       </main>
 
