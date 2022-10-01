@@ -3,7 +3,7 @@ import Image from 'next/image'
 import Card from '../components/Card'
 import TusharGupta from "../Images/TusharGupta.jpg"
 import AdityaSharma from "../Images/AdityaSharma.jpg"
-import Sudhanshusharma from "../Images/SudhanshuSharma.jpg"
+import SudhanshuSharma from "../Images/SudhanshuSharma.jpg"
 
 export default function Home() {
   return (
