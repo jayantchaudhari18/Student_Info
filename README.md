@@ -2,7 +2,7 @@
 
 Task you have to do
 
-1) add an image to the Image folder and name the image your name 
+1) Add an image(only anime pfp) to the Image folder and name the image your name 
   example : TusharGupta.jpg (all images must be in jpg)
 
 2) Go to the pages folder and the to index.js. 
