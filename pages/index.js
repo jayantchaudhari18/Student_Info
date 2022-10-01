@@ -3,7 +3,6 @@ import Image from 'next/image'
 import Card from '../components/Card'
 import TusharGupta from "../Images/TusharGupta.jpg"
 import AdityaSharma from "../Images/AdityaSharma.jpg"
-import AdityaSharma2 from "../Images/AdityaSharma2.jpg"
 import Sudhanshusharma from "../Images/SudhanshuSharma.jpg"
 
 export default function Home() {
@@ -19,9 +18,9 @@ export default function Home() {
        
         
         <Card image={TusharGupta}name = "Tushar Gupta" about="jai shree ram. keep chilling " instagram= "https://www.instagram.com/trust_afk/"  twitter="https://twitter.com/ohh_hii_tusharr" linkedin="https://www.linkedin.com/in/tushar-gupta-10a151202/"/>
-       
+      
     
-        <Card image={AdityaSharma2}name = "Aditya Sharma" about="future billionaire pr abhi gareeb hu" instagram= "https://www.instagram.com/iaddy29/"  twitter="https://twitter.com/iaddy29" linkedin="https://www.linkedin.com/in/aditya-sharma-2b4a64222/"/>
+        <Card image={AdityaSharma}name = "Aditya Sharma" about="future billionaire pr abhi gareeb hu" instagram= "https://www.instagram.com/iaddy29/"  twitter="https://twitter.com/iaddy29" linkedin="https://www.linkedin.com/in/aditya-sharma-2b4a64222/"/>
        
        <Card image={SudhanshuSharma}name = "Sudhanshu Sharma" about="dm for fun" instagram= "https://www.instagram.com/cpt_n3m0_22/"  twitter="https://twitter.com/Sudhanshu226922" linkedin="https://www.linkedin.com/in/sudhanshu-sharma-9376931b7/"/>
        
