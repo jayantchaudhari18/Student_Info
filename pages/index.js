@@ -9,6 +9,7 @@ import RitikSharma from '../Images/RitikSharma.jpg'
 import PriyanshuSingh from '../Images/Priyanshu singh.png'
 import AnkushMaji from "../Images/AnkushMaji.jpg"
 import AdityaSrivastav from "../Images/AdityaSrivastav.jpg"
+import Anuj from "../Images/Anuj.jpg"
 
 
 export default function Home() {
@@ -34,6 +35,8 @@ export default function Home() {
         
        
         <Card image={AnkushMaji}name = "Ankush Maji" about="First Hacktoberfest" instagram="https://www.instagram.com/101ankush/" twitter="" linkedin="https://www.linkedin.com/in/ankush-maji-11555622a/"/>
+          
+         <Card image={Anuj}name = "Anuj Patel" about="Love Virtual Reality" instagram= "https://www.instagram.com/anujpatel03/"  twitter="" linkedin="https://www.linkedin.com/in/anuj-patel-9186331a4/"/>
 
        
         <Card image={AgneyaPathare}name = "Agneya Pathare" about="Digital Creator" instagram= "https://www.instagram.com/agneya_pathare/"  twitter="https://twitter.com/agneya_pathare" linkedin="https://www.linkedin.com/in/agneya-pathare"/>
