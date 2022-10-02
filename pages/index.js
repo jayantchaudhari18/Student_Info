@@ -14,6 +14,7 @@ import SagarSethi from "../Images/SagarSethi.jpg";
 import WulakeyTanwar from "../Images/WulakeyTanwar.jpg";
 import MridulPanda from "../Images/MridulPanda.jpg";
 import AshmitBisht from "../Images/AshmitBisht.jpg";
+import TaraChoudhary from "../Images/TaraChoudhary.jpg";
 
 export default function Home() {
   return (
@@ -142,9 +143,17 @@ export default function Home() {
           linkedin="https://www.linkedin.com/in/ashmit-bisht-1b4788227/"
         />
             
-            
-            
-            
+
+        <Card
+          image={TaraChoudhary}
+          name="Tara Choudhary"
+          about="UI/UX Designer"
+          instagram="https://www.instagram.com/_tara__choudhary/"
+          twitter="https://twitter.com/developerTara"
+          linkedin="https://www.linkedin.com/in/tara-choudhary00/"
+        />
+    
+
       </main>
     </div>
   );
