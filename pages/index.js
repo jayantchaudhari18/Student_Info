@@ -52,7 +52,7 @@ export default function Home() {
           <Card image={Anuj}name = "Anuj Patel" about="Love Virtual Reality" instagram= "https://www.instagram.com/anujpatel03/"  twitter="" linkedin="https://www.linkedin.com/in/anuj-patel-9186331a4/"/>
 
 
-            <Card image={WulakeyTanwar}name = "Vicky Tanwar" about="Gammer OP" instagram= "https://www.instagram.com/vicky_tanwar_07/"  twitter="https://twitter.com/WulakeyTanwar" linkedin="https://www.linkedin.com/in/wulakey-tanwar-613b0821b"/>
+            <Card image={WulakeyTanwar}name = "Vicky Tanwar" about="Gammer OP!!" instagram= "https://www.instagram.com/vicky_tanwar_07/"  twitter="https://twitter.com/WulakeyTanwar" linkedin="https://www.linkedin.com/in/wulakey-tanwar-613b0821b"/>
 
 
 
