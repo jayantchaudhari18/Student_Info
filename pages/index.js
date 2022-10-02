@@ -44,7 +44,7 @@ export default function Home() {
 
         <Card
           image={SudhanshuSharma}
-          name="Sudhanshu Sharma"
+          name="Nitin Sharma"
           about="dm for fun"
           instagram="https://www.instagram.com/cpt_n3m0_22/"
           twitter="https://twitter.com/Sudhanshu226922"
