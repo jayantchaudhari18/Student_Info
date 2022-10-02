@@ -13,6 +13,8 @@ import Anuj from "../Images/Anuj.jpg";
 import SagarSethi from "../Images/SagarSethi.jpg";
 import WulakeyTanwar from "../Images/WulakeyTanwar.jpg";
 import MridulPanda from "../Images/MridulPanda.jpg";
+import AshmitBisht from "../Images/AshmitBisht.jpg";
+import TaraChoudhary from "../Images/TaraChoudhary.jpg";
 
 export default function Home() {
   return (
@@ -131,6 +133,27 @@ export default function Home() {
           twitter="https://twitter.com/i_mridul"
           linkedin="https://www.linkedin.com/in/mridul2820"
         />
+            
+         <Card
+          image={AshmitBisht}
+          name="Ashmit Bisht"
+          about="MOM STEALER IS HERE!!!!!!!"
+          instagram="https://www.instagram.com/the_ashmitbisht.009/"
+          twitter="https://twitter.com/AshmitBisht009"
+          linkedin="https://www.linkedin.com/in/ashmit-bisht-1b4788227/"
+        />
+            
+
+        <Card
+          image={TaraChoudhary}
+          name="Tara Choudhary"
+          about="UI/UX Designer"
+          instagram="https://www.instagram.com/_tara__choudhary/"
+          twitter="https://twitter.com/developerTara"
+          linkedin="https://www.linkedin.com/in/tara-choudhary00/"
+        />
+    
+
       </main>
     </div>
   );
