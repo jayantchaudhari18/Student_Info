@@ -12,6 +12,7 @@ import AdityaSrivastav from "../Images/AdityaSrivastav.jpg";
 import Anuj from "../Images/Anuj.jpg";
 import SagarSethi from "../Images/SagarSethi.jpg";
 import WulakeyTanwar from "../Images/WulakeyTanwar.jpg";
+import MridulPanda from "../Images/MridulPanda.jpg";
 
 export default function Home() {
   return (
@@ -120,6 +121,15 @@ export default function Home() {
           instagram="https://www.instagram.com/vicky_tanwar_07/"
           twitter="https://twitter.com/WulakeyTanwar"
           linkedin="https://www.linkedin.com/in/wulakey-tanwar-613b0821b"
+        />
+
+        <Card
+          image={MridulPanda}
+          name="Mridul Panda"
+          about="Frontend Developer"
+          instagram="https://www.instagram.com/i_mridul"
+          twitter="https://twitter.com/i_mridul"
+          linkedin="https://www.linkedin.com/in/mridul2820"
         />
       </main>
     </div>
