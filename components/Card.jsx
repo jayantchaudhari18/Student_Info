@@ -9,7 +9,7 @@ import {
 
 function Card({ image, name, about, instagram, twitter, linkedin }) {
   return (
-    <div id="card" className="flex flex-col self-center  p-10 content-center text-center rounded-lg shadow-lg border-2 border-gray-300 ">
+    <div id="card" className="flex flex-col self-center  p-10 content-center text-center rounded-lg shadow-lg border-2 border-gray-300 bg-white/30 backdrop-blur-sm ">
       <style jsx>{`
       #card{
         flex: 1 0 300px;
