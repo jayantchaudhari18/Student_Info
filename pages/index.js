@@ -11,6 +11,8 @@ import AnkushMaji from "../Images/AnkushMaji.jpg"
 import AdityaSrivastav from "../Images/AdityaSrivastav.jpg"
 import Anuj from "../Images/Anuj.jpg"
 import SagarSethi from "../Images/SagarSethi.jpg"
+import WulakeyTanwar from "../Images/WulakeyTanwar.jpg"
+
 
 
 export default function Home() {
@@ -54,6 +56,10 @@ export default function Home() {
 
 
         <Card image={SagarSethi}name = "Sagar Sethi" about="Looking some change from daily life" instagram= ""  twitter="https://twitter.com/sgrhere" linkedin="https://www.linkedin.com/in/sethisagar/"/>
+
+       <Card image={WulakeyTanwar}name = "Vicky Tanwar" about="Gammer OP!!" instagram= "https://www.instagram.com/vicky_tanwar_07/"  twitter="https://twitter.com/WulakeyTanwar" linkedin="https://www.linkedin.com/in/wulakey-tanwar-613b0821b"/>
+
+
 
 
       </main>
