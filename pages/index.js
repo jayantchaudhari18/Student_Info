@@ -17,6 +17,7 @@ import AshmitBisht from "../Images/AshmitBisht.jpg";
 import TaraChoudhary from "../Images/TaraChoudhary.jpg";
 import ChiragArora from "../Images/ChiragArora.jpg";
 import DimpleChoudhary from "../Images/DimpleChoudhary.jpg";
+import AyushSarode from "../Images/AyushSarode.jpg";
 
 export default function Home() {
   return (
@@ -172,9 +173,16 @@ export default function Home() {
           twitter="https://twitter.com/dimpi_choudhari"
           linkedin="https://www.linkedin.com/in/dimple-choudhary-537066239/"
         />
-    
-    
-
+            
+        <Card
+          image={AyushSarode}
+          name="Ayush Sarode"
+          about="Web Developer"
+          instagram=""
+          twitter="https://twitter.com/AyushSarode07"
+          linkedin=""
+        />    
+  
       </main>
     </div>
   );
