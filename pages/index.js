@@ -26,6 +26,14 @@ export default function Home() {
       </Head>
 
       <main className=" flex gap-8 justify-center flex-wrap min-h-screen bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 p-10 md:p-5">
+     <Card
+          image={ChiragArora}
+          name="Chirag Arora"
+          about="Doing Open Source"
+          instagram="https://www.instagram.com/chirag.8023/"
+          twitter="https://twitter.com/Chirag8023"
+          linkedin="https://www.linkedin.com/in/chirag-arora-174775167/"
+        />
         <Card
           image={TusharGupta}
           name="Tushar Gupta"
