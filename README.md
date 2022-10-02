@@ -2,7 +2,7 @@
 
 Task you have to do
 
-1. Add an image( only anime pfp use [Pintrest](https://in.pinterest.com/) ) to the Image folder and name the image your name 
+1. Add an image( only anime pfp use [Pintrest](https://in.pinterest.com/search/pins/?q=anime%20pfp%20icon&rs=typed) ) to the Image folder and name the image your name 
   example : TusharGupta.jpg (all images must be in jpg)
 
 
