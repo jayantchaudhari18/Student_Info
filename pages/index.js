@@ -13,6 +13,7 @@ import Anuj from "../Images/Anuj.jpg";
 import SagarSethi from "../Images/SagarSethi.jpg";
 import WulakeyTanwar from "../Images/WulakeyTanwar.jpg";
 import MridulPanda from "../Images/MridulPanda.jpg";
+import AshmitBisht from "../Images/AshmitBisht.jpg";
 
 export default function Home() {
   return (
@@ -130,6 +131,15 @@ export default function Home() {
           instagram="https://www.instagram.com/i_mridul"
           twitter="https://twitter.com/i_mridul"
           linkedin="https://www.linkedin.com/in/mridul2820"
+        />
+            
+         <Card
+          image={AshmitBisht}
+          name="Ashmit Bisht"
+          about="MOM STEALER IS HERE!!!!!!!1"
+          instagram="https://www.instagram.com/trust_afk/"
+          twitter="https://twitter.com/ohh_hii_tusharr"
+          linkedin="https://www.linkedin.com/in/tushar-gupta-10a151202/"
         />
       </main>
     </div>
