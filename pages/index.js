@@ -136,11 +136,15 @@ export default function Home() {
          <Card
           image={AshmitBisht}
           name="Ashmit Bisht"
-          about="MOM STEALER IS HERE!!!!!!!1"
+          about="MOM STEALER IS HERE!!!!!!!"
           instagram="https://www.instagram.com/the_ashmitbisht.009/"
           twitter="https://twitter.com/AshmitBisht009"
           linkedin="https://www.linkedin.com/in/ashmit-bisht-1b4788227/"
         />
+            
+            
+            
+            
       </main>
     </div>
   );
