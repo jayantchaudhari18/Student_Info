@@ -16,6 +16,7 @@ import MridulPanda from "../Images/MridulPanda.jpg";
 import AshmitBisht from "../Images/AshmitBisht.jpg";
 import TaraChoudhary from "../Images/TaraChoudhary.jpg";
 import ChiragArora from "../Images/ChiragArora.jpg";
+import DimpleChoudhary from "../Images/DimpleChoudhary.jpg";
 
 export default function Home() {
   return (
@@ -162,6 +163,16 @@ export default function Home() {
           twitter="https://twitter.com/developerTara"
           linkedin="https://www.linkedin.com/in/tara-choudhary00/"
         />
+            
+        <Card
+          image={DimpleChoudhary}
+          name="Dimple Choudhary"
+          about="Frontend Developer"
+          instagram="https://www.instagram.com/_dimple__choudhary__/"
+          twitter="https://twitter.com/dimpi_choudhari"
+          linkedin="https://www.linkedin.com/in/dimple-choudhary-537066239/"
+        />
+    
     
 
       </main>
