@@ -136,7 +136,7 @@ export default function Home() {
          <Card
           image={AshmitBisht}
           name="Ashmit Bisht"
-          about="ohhhaaaaayyooo oniiiii chan"
+          about="MOM STEALER IS HERE!!!!!!!1"
           instagram="https://www.instagram.com/trust_afk/"
           twitter="https://twitter.com/ohh_hii_tusharr"
           linkedin="https://www.linkedin.com/in/tushar-gupta-10a151202/"
