@@ -14,6 +14,7 @@ import SagarSethi from "../Images/SagarSethi.jpg";
 import WulakeyTanwar from "../Images/WulakeyTanwar.jpg";
 import MridulPanda from "../Images/MridulPanda.jpg";
 import AshmitBisht from "../Images/AshmitBisht.jpg";
+import ChiragArora from "../Images/ChiragArora.jpg";
 
 export default function Home() {
   return (
