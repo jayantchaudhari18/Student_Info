@@ -11,7 +11,7 @@ Task you have to do
 - import the image of your name (eg: import TusharGupta from "../Images/TusharGupta.jpg")
   
 - Now copy the Card given below : 
-- 
+
 - `<Card image={   } name = " " about=" " instagram= "  "  twitter="  " linkedin="  "/>`
    
 - paste your links in the above template :) 
