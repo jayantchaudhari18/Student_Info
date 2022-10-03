@@ -6,7 +6,7 @@ Task you have to do
   example : TusharGupta.jpg (all images must be in jpg)
 
 
-2. Go to the pages folder and the to index.js. 
+2. Go to the pages folder and then to index.js. 
   
 - import the image of your name (eg: import TusharGupta from "../Images/TusharGupta.jpg")
   
