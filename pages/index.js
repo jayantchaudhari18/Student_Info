@@ -18,6 +18,7 @@ import TaraChoudhary from "../Images/TaraChoudhary.jpg";
 import ChiragArora from "../Images/ChiragArora.jpg";
 import DimpleChoudhary from "../Images/DimpleChoudhary.jpg";
 import AyushSarode from "../Images/AyushSarode.jpg";
+import VaniSharma from "../Images/VaniSharma.jpg";
 
 export default function Home() {
   return (
@@ -183,6 +184,14 @@ export default function Home() {
           linkedin=""
         />    
   
+         <Card
+          image={VaniSharma}
+          name="Vani Sharma"
+          about="Web Designer"
+          instagram=""
+          twitter=""
+          linkedin=""
+        />
       </main>
     </div>
   );
