@@ -22,7 +22,6 @@ import VaniSharma from "../Images/VaniSharma.jpg";
 import AnshajKhare from "../Images/AnshajKhare.jpg";
 import MadhavBhardwaj from "../Images/MadhavBhardwaj.jpg";
 
-
 export default function Home() {
   return (
     <div>
