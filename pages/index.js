@@ -20,7 +20,6 @@ import DimpleChoudhary from "../Images/DimpleChoudhary.jpg";
 import AyushSarode from "../Images/AyushSarode.jpg";
 import VaniSharma from "../Images/VaniSharma.jpg";
 
-
 export default function Home() {
   return (
     <div>
