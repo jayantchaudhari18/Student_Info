@@ -204,6 +204,18 @@ export default function Home() {
           twitter="https://twitter.com/anshaj_khare"
           linkedin="https://www.linkedin.com/in/anshaj-khare-0a0701202/"
          />
+            
+            <Card 
+          image={MadhavBhardwaj}
+          name="Madhav Bhardwaj"
+          about="Wake up to reality !!! "
+          instagram="https://www.instagram.com/ma_dh_av30/"
+          twitter="https://twitter.com/Ma_dh_av30"
+          linkedin="https://www.linkedin.com/in/madhav-bhardwaj-22793621b/"
+         />
+            
+            
+         
          
       </main>
     </div>
