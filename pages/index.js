@@ -19,6 +19,7 @@ import ChiragArora from "../Images/ChiragArora.jpg";
 import DimpleChoudhary from "../Images/DimpleChoudhary.jpg";
 import AyushSarode from "../Images/AyushSarode.jpg";
 import VaniSharma from "../Images/VaniSharma.jpg";
+import AnshajKhare from "../Images/AnshajKhare.jpg";
 
 
 export default function Home() {
@@ -193,6 +194,15 @@ export default function Home() {
           twitter=""
           linkedin=""
         />
+
+         <Card 
+          image={AnshajKhare}
+          name="Anshaj Khare"
+          about="Open Source Contributor"
+          instagram="https://www.instagram.com/anshaj.khare/"
+          twitter="https://twitter.com/anshaj_khare"
+          linkedin="https://www.linkedin.com/in/anshaj-khare-0a0701202/"
+         />
          
       </main>
     </div>
