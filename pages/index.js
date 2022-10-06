@@ -20,6 +20,7 @@ import DimpleChoudhary from "../Images/DimpleChoudhary.jpg";
 import AyushSarode from "../Images/AyushSarode.jpg";
 import VaniSharma from "../Images/VaniSharma.jpg";
 import AnshajKhare from "../Images/AnshajKhare.jpg";
+import MadhavBhardwaj from "../Images/MadhavBhardwaj.jpg";
 
 
 export default function Home() {
