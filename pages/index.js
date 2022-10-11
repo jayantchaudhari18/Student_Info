@@ -22,6 +22,7 @@ import VaniSharma from "../Images/VaniSharma.jpg";
 import AnshajKhare from "../Images/AnshajKhare.jpg";
 import MadhavBhardwaj from "../Images/MadhavBhardwaj.jpg";
 import NishitTyagi from "../Images/NishitTyagi.jpg";
+import Ritikkumar from "../Images/Ritikkumar.jpg";
 
 
 export default function Home() {
@@ -222,6 +223,15 @@ export default function Home() {
           instagram="https://www.instagram.com/nishit.tyagi5/"
           twitter="https://twitter.com/Sudhanshu226922"
           linkedin="https://www.linkedin.com/in/nishit-tyagi-560b0722b"
+         />
+            
+              <Card 
+          image={Ritikkumar}
+          name="Ritik Kumar"
+          about="Software Developer !!!"
+          instagram="https://www.instagram.com/its__.ritik.__/"
+          twitter="https://twitter.com/RitikKu00198959"
+          linkedin="https://www.linkedin.com/in/ritik-kumar-2b9282227/"
          />
             
             
