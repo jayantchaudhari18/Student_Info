@@ -21,6 +21,7 @@ import AyushSarode from "../Images/AyushSarode.jpg";
 import VaniSharma from "../Images/VaniSharma.jpg";
 import AnshajKhare from "../Images/AnshajKhare.jpg";
 import MadhavBhardwaj from "../Images/MadhavBhardwaj.jpg";
+import NishitTyagi from "../Images/NishitTyagi.jpg";
 
 
 export default function Home() {
@@ -212,6 +213,15 @@ export default function Home() {
           instagram="https://www.instagram.com/ma_dh_av30/"
           twitter="https://twitter.com/Ma_dh_av30"
           linkedin="https://www.linkedin.com/in/madhav-bhardwaj-22793621b/"
+         />
+            
+            <Card 
+          image={NishitTyagi}
+          name="Nishit Tyagi"
+          about="All Mighty Push......................<3 "
+          instagram="https://www.instagram.com/nishit.tyagi5/"
+          twitter="https://twitter.com/Sudhanshu226922"
+          linkedin="https://www.linkedin.com/in/nishit-tyagi-560b0722b"
          />
             
             
