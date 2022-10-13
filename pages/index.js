@@ -23,6 +23,7 @@ import AnshajKhare from "../Images/AnshajKhare.jpg";
 import MadhavBhardwaj from "../Images/MadhavBhardwaj.jpg";
 import NishitTyagi from "../Images/NishitTyagi.jpg";
 import Ritikkumar from "../Images/Ritikkumar.jpg";
+import OmShah from "../Images/OmShah.jpg";
 
 
 export default function Home() {
@@ -233,6 +234,16 @@ export default function Home() {
           twitter="https://twitter.com/RitikKu00198959"
           linkedin="https://www.linkedin.com/in/ritik-kumar-2b9282227/"
          />
+            
+          <Card 
+          image={OmShah}
+          name="Om Shah"
+          about="Web Developer"
+          instagram="https://www.instagram.com/maiommhoon/"
+          twitter="https://twitter.com/MaiOmmHoon"
+          linkedin=" "
+         />
+            
             
             
          
