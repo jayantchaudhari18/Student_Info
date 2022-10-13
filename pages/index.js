@@ -23,7 +23,7 @@ import AnshajKhare from "../Images/AnshajKhare.jpg";
 import MadhavBhardwaj from "../Images/MadhavBhardwaj.jpg";
 import NishitTyagi from "../Images/NishitTyagi.jpg";
 import Ritikkumar from "../Images/Ritikkumar.jpg";
-import IshitaSrivastav from "../Images/IshitaSrivastav.jpg";
+import IshitaSrivastav from "../Images/IshitaSrivastav.jpeg";
 import OmShah from "../Images/OmShah.jpg";
 import VladenCode from "../Images/VladenCode.jpg";
 
