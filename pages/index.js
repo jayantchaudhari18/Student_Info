@@ -23,6 +23,8 @@ import AnshajKhare from "../Images/AnshajKhare.jpg";
 import MadhavBhardwaj from "../Images/MadhavBhardwaj.jpg";
 import NishitTyagi from "../Images/NishitTyagi.jpg";
 import Ritikkumar from "../Images/Ritikkumar.jpg";
+import VladenCode from "../Images/VladenCode.jpg";
+
 
 
 export default function Home() {
@@ -233,6 +235,14 @@ export default function Home() {
           twitter="https://twitter.com/RitikKu00198959"
           linkedin="https://www.linkedin.com/in/ritik-kumar-2b9282227/"
          />
+
+         <Card 
+         image={VladenCode}
+          name="Vladimir Cvejanov " 
+          about="Frontend Developer" 
+          instagram="" 
+          twitter="https://twitter.com/VladTheCveja " 
+          linkedin=""/>
             
             
          
