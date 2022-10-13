@@ -26,6 +26,7 @@ import Ritikkumar from "../Images/Ritikkumar.jpg";
 import IshitaSrivastav from "../Images/IshitaSrivastav.jpeg";
 import OmShah from "../Images/OmShah.jpg";
 import VladenCode from "../Images/VladenCode.jpg";
+import jayantchaudhari18 from "../Images/jayantchaudhari18.jpeg";
 
 
 
@@ -263,7 +264,15 @@ export default function Home() {
           twitter="https://twitter.com/MaiOmmHoon"
           linkedin=" "
          />
-            
+          
+          <Card
+          image={jayantchaudhari18}
+          name="jayantchaudhari18"
+          about=" Hacktober "
+          instagram=""
+          twitter=""
+          linkedin=""
+        />
             
             
          
