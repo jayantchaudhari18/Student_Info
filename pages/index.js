@@ -23,7 +23,7 @@ import AnshajKhare from "../Images/AnshajKhare.jpg";
 import MadhavBhardwaj from "../Images/MadhavBhardwaj.jpg";
 import NishitTyagi from "../Images/NishitTyagi.jpg";
 import Ritikkumar from "../Images/Ritikkumar.jpg";
-
+import IshitaSrivastav from "../Images/IshitaSrivastav.jpg";
 
 export default function Home() {
   return (
@@ -232,6 +232,14 @@ export default function Home() {
           instagram="https://www.instagram.com/its__.ritik.__/"
           twitter="https://twitter.com/RitikKu00198959"
           linkedin="https://www.linkedin.com/in/ritik-kumar-2b9282227/"
+         /> 
+              <Card 
+          image={IshitaSrivastav}
+          name="Ishita Srivastav"
+          about="Having Fun.....:)"
+          instagram="https://www.instagram.com/ishitaa_xo"
+          twitter=""
+          linkedin=""
          />
             
             
